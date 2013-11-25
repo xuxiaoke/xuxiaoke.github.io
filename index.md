@@ -1,7 +1,7 @@
 # 小可的信息汇聚博客
 
 ##  PYTHON
-### 1. Spider安装后加载python模块前的工作
+### 1. Spyder安装后加载python模块前的工作
 
 
     Find the location of a module in Terminal:
@@ -14,8 +14,8 @@
 
     Relaunch Spyder.app
 
-### 2. 使用Grunt的理由Twitter
-前端的工具算得上是五花八门，在介绍如何Grunt之前，首先我们得反问自己：
+### 2. Sina Weibo Python客户端
+[http://michaelliao.github.io/sinaweibopy/](http://michaelliao.github.io/sinaweibopy/)
 
 * Grunt能够帮我们解决什么问题？
 * 是否有其他更合适的替代方案？
@@ -33,7 +33,7 @@
 3. 探寻社交网络中的关系: 统计网络模型初探
 [http://chengjun.github.io/blog/2013/08/09/sna-book-chapter/](http://chengjun.github.io/blog/2013/08/09/sna-book-chapter/)
 
-4. 
+4. Leskovec
 
 
 # Datasets
