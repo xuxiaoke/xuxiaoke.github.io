@@ -17,6 +17,9 @@
 ### 2. Sina Weibo Python客户端
 [http://michaelliao.github.io/sinaweibopy/](http://michaelliao.github.io/sinaweibopy/)
 
+### 3. Python学习
+[http://www.elias.cn/Python/HomePage?from=Develop.Python](http://www.elias.cn/Python/HomePage?from=Develop.Python)
+
 * Grunt能够帮我们解决什么问题？
 * 是否有其他更合适的替代方案？
 * 
